@@ -88,26 +88,26 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: windows php list
-      url: http://windows.php.net/downloads/releases/archives/ 
-    - text: derickrethans
-      url: http://derickrethans.nl/ 
-    - text: php内核
-      url: http://www.yiifans.com/portal.php?mod=view&aid=474/ 
-    message: PHP
+    - text: 技术小黑屋
+      url: http://droidyue.com/
+    - text: Jekyll
+      url: http://jekyllrb.com
+    - text: Jekyll Theme
+      url: http://www.zhanxin.info/themes.html
+    message: Friends    
   - item:
-    - text: laruence
-      url: http://www.laruence.com/ 
-  - item:
-    - text: GitHub中国用户
-      url: http://creatist.cn/rank/ 
-    - text: 李杰
-      url: http://creatist.cn/rank/ 
-    message: GitHub
-  - item:
-    - text: 大漠穷秋
-      url: http://damoqiongqiu.iteye.com/ 
-    message: Coder
+    - text: Java Code Geeks
+      url: http://www.javacodegeeks.com/
+    - text: Web Developer
+      url: http://www.fromdev.com/
+    - text: BeginnersBook
+      url: http://beginnersbook.com/
+    - text: Mkyong
+      url: http://www.mkyong.com/
+    - text: Java By Nataraj
+      url: http://javabynataraj.blogspot.in/
+    message: About Java
+    
 
 #googleAnaly, your id link UA-12345678-X 暂时关闭以下自定义项
 googleAnaly:
