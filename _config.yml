@@ -62,7 +62,7 @@ nav:
 #Author config
 author:
     name: Joey Yang
-    email: zhujiajun.me@gmail.com
+    email: daodangege+aboutme@gmail.com
     imageLink: /images/header.jpg
     simpleIntro: I Have a Dream
     detailIntro:
@@ -107,6 +107,25 @@ customLinks:
     - text: Java By Nataraj
       url: http://javabynataraj.blogspot.in/
     message: About Java
+    - text: GitHub中国用户
+      url: http://creatist.cn/rank/ 
+    - text: 李杰
+      tag: Cat brother
+      url: http://creatist.cn/rank/ 
+    message: GitHub
+  - item:
+    - text: 大漠穷秋
+      url: http://damoqiongqiu.iteye.com/ 
+    message: Coder
+  - item:
+   - text: windows php list
+      url: http://windows.php.net/downloads/releases/archives/ 
+    - text: derickrethans
+      url: http://derickrethans.nl/ 
+    - text: php内核
+      url: http://www.yiifans.com/portal.php?mod=view&aid=474/ 
+    message: PHP
+
 
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
