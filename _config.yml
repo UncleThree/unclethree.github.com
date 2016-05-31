@@ -39,10 +39,10 @@ timezone:      null
 
 
 #Site config
-title: Uncle's Blog
-description: 猫窝在我怀里
-keywords: php
-url: unclethree.github.io
+title: 9leg
+description: java技术文章
+keywords: Write
+url: https://unclethree.github.io/
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
@@ -61,13 +61,13 @@ nav:
 
 #Author config
 author:
-    name: UncleThree
+    name: Joey Yang
     email: zhujiajun.me@gmail.com
     imageLink: /images/header.jpg
     simpleIntro: I Have a Dream
     detailIntro:
-      <p>blog build log</p>
-      <p>自留地</p>
+      <p></p>
+      <p></p>
       <p></p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
@@ -79,7 +79,7 @@ follow:
   - class: icon-facebook
     url: http://facebook.com/
   - class: icon-github-alt
-    url: https://github.com/zJiaJun/
+    url: https://github.com/UncleThree/
   - class: icon-twitter
     url: http://twitter.com/
   - class: icon-google-plus
@@ -108,13 +108,12 @@ customLinks:
       url: http://javabynataraj.blogspot.in/
     message: About Java
 
-
-#googleAnaly, your id link UA-12345678-X 暂时关闭以下自定义项
+#googleAnaly, your id link UA-12345678-X
 googleAnaly:
   config: false
   id: UA-58146229-1
 
-#baidu tongji 
+#baidu tongji
 baiduTongji:
   config: false
   id: c12b560f0372d5995701449b9eac606c
@@ -131,3 +130,4 @@ duoshuo:
 #baidu share config
 baiduShare:
   config: false
+  
