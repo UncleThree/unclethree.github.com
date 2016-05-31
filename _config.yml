@@ -107,7 +107,7 @@ customLinks:
     - text: Java By Nataraj
       url: http://javabynataraj.blogspot.in/
     message: About Java
-    
+
 
 #googleAnaly, your id link UA-12345678-X 暂时关闭以下自定义项
 googleAnaly:
@@ -131,4 +131,3 @@ duoshuo:
 #baidu share config
 baiduShare:
   config: false
-  
