@@ -94,6 +94,8 @@ customLinks:
       url: http://jekyllrb.com
     - text: Jekyll Theme
       url: http://www.zhanxin.info/themes.html
+    - text: 大漠穷秋
+      url: http://damoqiongqiu.iteye.com/   
     message: Friends    
   - item:
     - text: Java Code Geeks
@@ -111,7 +113,6 @@ customLinks:
     - text: GitHub中国用户
       url: http://creatist.cn/rank/ 
     - text: 李杰
-      tag: Cat brother
       url: http://creatist.cn/rank/ 
     message: GitHub
   - item:
