@@ -42,7 +42,6 @@ timezone:      null
 title: Uncle's Blog
 description: 猫窝在我怀里
 keywords: php
-url: unclethree.github.io
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
