@@ -102,12 +102,10 @@ customLinks:
     - text: GitHub中国用户
       url: http://creatist.cn/rank/ 
     - text: 李杰
-      tag: Cat brother
       url: http://creatist.cn/rank/ 
     message: GitHub
   - item:
     - text: 大漠穷秋
-      tag: imooc讲师
       url: http://damoqiongqiu.iteye.com/ 
     message: Coder
 
