@@ -39,8 +39,8 @@ timezone:      null
 
 
 #Site config
-title: 9leg
-description: java技术文章
+title: Uncle's Blog
+description: 技术与人文
 keywords: Write
 url: https://unclethree.github.io
 feed: /atom.xml
@@ -95,7 +95,7 @@ customLinks:
     - text: Jekyll Theme
       url: http://www.zhanxin.info/themes.html
     - text: 大漠穷秋
-      url: http://damoqiongqiu.iteye.com/   
+      url: http://damoqiongqiu.iteye.com/
     message: Friends    
   - item:
     - text: Java Code Geeks
@@ -151,4 +151,3 @@ duoshuo:
 #baidu share config
 baiduShare:
   config: false
-  
