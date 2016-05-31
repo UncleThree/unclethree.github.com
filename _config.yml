@@ -42,6 +42,7 @@ timezone:      null
 title: Uncle's Blog
 description: 猫窝在我怀里
 keywords: php
+url: unclethree.github.io
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
@@ -107,14 +108,14 @@ customLinks:
       url: http://javabynataraj.blogspot.in/
     message: About Java
 
-#googleAnaly, your id link UA-12345678-X
+#googleAnaly, your id link UA-12345678-X 暂时关闭以下自定义项
 googleAnaly:
   config: false
   id: UA-58146229-1
 
-#baidu tongji
+#baidu tongji 
 baiduTongji:
-  config: true
+  config: false
   id: c12b560f0372d5995701449b9eac606c
 
 #comment config
@@ -123,10 +124,10 @@ disqus:
   id: piznblog
 
 duoshuo:
-  config: true
+  config: false
   id: 9leg
 
 #baidu share config
 baiduShare:
-  config: true
+  config: false
   
