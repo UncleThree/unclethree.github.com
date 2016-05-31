@@ -42,7 +42,7 @@ timezone:      null
 title: 9leg
 description: java技术文章
 keywords: Write
-url: https://unclethree.github.io/
+url: https://unclethree.github.io
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
@@ -107,6 +107,7 @@ customLinks:
     - text: Java By Nataraj
       url: http://javabynataraj.blogspot.in/
     message: About Java
+  - item:
     - text: GitHub中国用户
       url: http://creatist.cn/rank/ 
     - text: 李杰
