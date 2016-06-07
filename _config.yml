@@ -87,15 +87,13 @@ follow:
 
 #Links
 customLinks:
- - item:
+  - item:
     - text: 技术小黑屋
       url: http://droidyue.com/
     - text: Jekyll
       url: http://jekyllrb.com
     - text: Jekyll Theme
       url: http://www.zhanxin.info/themes.html
-    - text: 大漠穷秋
-      url: http://damoqiongqiu.iteye.com/
     message: Friends    
   - item:
     - text: Java Code Geeks
