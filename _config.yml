@@ -64,9 +64,9 @@ author:
     name: Joey Yang
     email: daodangege+aboutme@gmail.com
     imageLink: /images/header.jpg
-    simpleIntro: I Have a Dream
+    simpleIntro: 为学日益，为道日损，损之又损，以至于无为
     detailIntro:
-      <p></p>
+      <p>实践</p>
       <p></p>
       <p></p>
 
@@ -87,7 +87,7 @@ follow:
 
 #Links
 customLinks:
-  - item:
+ - item:
     - text: 技术小黑屋
       url: http://droidyue.com/
     - text: Jekyll
@@ -109,24 +109,6 @@ customLinks:
     - text: Java By Nataraj
       url: http://javabynataraj.blogspot.in/
     message: About Java
-  - item:
-    - text: GitHub中国用户
-      url: http://creatist.cn/rank/ 
-    - text: 李杰
-      url: http://creatist.cn/rank/ 
-    message: GitHub
-  - item:
-    - text: 大漠穷秋
-      url: http://damoqiongqiu.iteye.com/ 
-    message: Coder
-  - item:
-   - text: windows php list
-      url: http://windows.php.net/downloads/releases/archives/ 
-    - text: derickrethans
-      url: http://derickrethans.nl/ 
-    - text: php内核
-      url: http://www.yiifans.com/portal.php?mod=view&aid=474/ 
-    message: PHP
 
 
 #googleAnaly, your id link UA-12345678-X
