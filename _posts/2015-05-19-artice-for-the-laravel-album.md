@@ -284,7 +284,7 @@ Route::group(['prefix' => 'admin'
 - `{{ isset($name)?$name:'default'}}`
 - `{!! $script !!}`
 
-原创文章转载请注明出处：[快学Laravel系列](https://unclethree.github.io/laravel/2016/09/10/artice-for-the-laravel-album.html)
+原创文章转载请注明出处：[快学Laravel系列](https://unclethree.github.io/laravel/2015/09/10/artice-for-the-laravel-album.html)
 
 
  
