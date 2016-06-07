@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 快学Laravel系列
-date: 2016-09-10 15:30:22
+date: 2015-09-10 15:30:22
 category: "Laravel"
 ---
 
@@ -156,6 +156,7 @@ OK，一切搞定！试一下 composer install 来体验飞一般的速度吧！
 #### 参考文档
 - [中文文档](http://laravelacademy.org/laravel-docs-5_2) 
 - [英文文档](https://laravel.com/docs/5.2)
+
 > 文档使用原则: 时间是检验真理的唯一标准
 
 ### Laravel5.2目录结构及composer.json文件解析
@@ -228,13 +229,18 @@ OK，一切搞定！试一下 composer install 来体验飞一般的速度吧！
 
 ### Laravel5.2 HTTP
 #### 路由基础-路由参数
+
 - 必选参数
 - 可选参数
 - 参数约束
  - 正则约束
+
 #### 控制器
+
 >可理解控制器为:数据和视图之间的桥梁
+
 控制器创建方法:
+
 1. 手动创建 
 2. Artisan  方法创建 `php artisan make:controller HomeController`会自动命名,依赖
 
@@ -256,6 +262,7 @@ Route::group(['prefix' => 'admin'
 #### 中间件 Middleware
 >使用 artisan 创建中间件 `php artisan make:middleware Admin`
 >5.1和 5.5　Laravel 版本的 web csrf 中间件使用有不一样之处
+
 - 路由分组
 - 路由前缀 prefix namespace
 - 子域名路由
