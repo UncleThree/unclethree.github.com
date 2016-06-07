@@ -88,25 +88,15 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 技术小黑屋
-      url: http://droidyue.com/
-    - text: Jekyll
-      url: http://jekyllrb.com
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
-    message: Friends    
+    - text: windows php list
+      url: http://windows.php.net/downloads/releases/archives/
+    - text: php内核
+      url: http://www.yiifans.com/portal.php?mod=view&aid=474/
+    message: PHP    
   - item:
-    - text: Java Code Geeks
-      url: http://www.javacodegeeks.com/
-    - text: Web Developer
-      url: http://www.fromdev.com/
-    - text: BeginnersBook
-      url: http://beginnersbook.com/
-    - text: Mkyong
-      url: http://www.mkyong.com/
-    - text: Java By Nataraj
-      url: http://javabynataraj.blogspot.in/
-    message: About Java
+    - text: GitHub 中国区
+      url: http://creatist.cn/rank/ 
+    message: GitHub
 
 
 #googleAnaly, your id link UA-12345678-X
