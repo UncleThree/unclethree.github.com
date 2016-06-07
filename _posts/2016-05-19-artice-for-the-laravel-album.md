@@ -1,14 +1,11 @@
 ---
 layout: post
-title: Laravel
+title: 快学Laravel系列
 date: 2016-09-10 15:30:22
 category: "Laravel"
 ---
 
-[TOC]
-## Laravel
-
-### 3.类库管理神器Composer安装和配置laravel5.2
+### 类库管理神器Composer安装和配置laravel5.2
 
 #### composer 下载安装
 
@@ -131,13 +128,17 @@ category: "Laravel"
 OK，一切搞定！试一下 composer install 来体验飞一般的速度吧！
 
 ### 4.Laravel5.2一键安装包安装及初始化配置
+
 #### Laravel 下载安装方式
+
 - 一键安装包下载  `http://www.golaravel.com/download/`
 - GitHub 下载
  + [GitHub Clone](https://github.com/laravel/laravel)
  + 直接下载zip包
  + SourceTree 克隆下载
+
 #### Laravel 初始化配置
+
 1. wamp 版本需求 ( PHP 版本 >= 5.5.9 | Wamp2.5 )
 2. Apache 配置 httpd.conf 开启 rewrite 和 vhost
 3. 开启 PHP 扩展 php.ini
@@ -158,6 +159,7 @@ OK，一切搞定！试一下 composer install 来体验飞一般的速度吧！
 > 文档使用原则: 时间是检验真理的唯一标准
 
 ### Laravel5.2目录结构及composer.json文件解析
+
 | Folder  or file | describe  |
 |:----|----|
 | ｜–　app |  包含Controller、Model、路由等在内的应用目录，大部分业务将在该目录下进行|
@@ -273,6 +275,8 @@ Route::group(['prefix' => 'admin'
 - {{ $name or 'Default'}}
 - {{ isset($name)?$name:'default'}}
 - {!! $script !!}
+
+原创文章转载请注明出处：[快学Laravel系列](https://unclethree.github.io/laravel/2016/09/10/artice-for-the-laravel-album.html)
 
 
  
