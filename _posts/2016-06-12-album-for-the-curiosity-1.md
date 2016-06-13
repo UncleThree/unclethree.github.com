@@ -4,6 +4,10 @@ title: 「好奇心之旅」五月的身体记忆
 date: 2016-06-12 00:30:22
 category: "Curiosity Album"
 ---
+<center>
+ <img src="http://7xv4lu.com1.z0.glb.clouddn.com/dd.jpg " width = "500" height = "200" alt="dream_travel" align=center />
+</center>
+
 
 >蒹葭苍苍,白露为霜。在我手指敲触键盘的这一起,已经不是那个对伊人抱有美好幻想的时机。
 
