@@ -76,7 +76,6 @@ category: "Navigation"
 - [IPN](http://ipn.li/)
 - [津津乐道](https://jinjinledao.org/)
 - [GeekRadio](http://geek.wasai.org/)
-[![alt "新闻酸菜馆"](http://7xv4lu.com1.z0.glb.clouddn.com/prenotes2881819978241035%5B1%5D.jpg?imageView/2/w/60/q/60 "新闻酸菜馆")](http://music.163.com/#/djradio?id=984022)
 
 
 
