@@ -5,13 +5,9 @@ date: 2016-06-12 00:30:22
 category: "Curiosity Album"
 ---
 
-[![alt "新闻酸菜馆"](http://7xv4lu.com1.z0.glb.clouddn.com/prenotes2881819978241035%5B1%5D.jpg?imageView/2/w/60/q/60 "新闻酸菜馆")](http://music.163.com/#/djradio?id=984022)
-
+>蒹葭苍苍,白露为霜。在我手指敲触键盘的这一起,已经不是那个对伊人抱有美好幻想的时机。
 
 [![alt "dream_tarvel"](http://7xv4lu.com1.z0.glb.clouddn.com/dd.jpg "dream_tarvel")](https://unclethree.github.io/curiosity%20album/2016/06/12/album-for-the-curiosity-1.html)
-
-
->蒹葭苍苍,白露为霜。在我手指敲触键盘的这一起,已经不是那个对伊人抱有美好幻想的时机。
 
 我有超过5年以上没在动手写过信,随之不在记日记。之前是捧着村上春树的书爱不释手,直到时隔几年把 <**瓦尔登湖**> 看完才意识已经到了 25 岁的年纪,这个年纪里我遇上的小姑娘唤我做「**老男人**」,自己的老同桌已经可以吉他弹唱很多歌曲,不在联系的老同学已经日本留学归来,小时最要好的朋友已经结婚第二年,而我确确实实做了父辈的角色--唤我作小爸爸的侄女已经两岁。
 
