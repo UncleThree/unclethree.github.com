@@ -4,9 +4,10 @@ title: 「好奇心之旅」五月的身体记忆
 date: 2016-06-12 00:30:22
 category: "Curiosity Album"
 ---
-<center>
+[![alt "新闻酸菜馆"](http://7xv4lu.com1.z0.glb.clouddn.com/prenotes2881819978241035%5B1%5D.jpg?imageView/2/w/60/q/60 "新闻酸菜馆")](http://music.163.com/#/djradio?id=984022)
+
 [![alt "dream_tarvel"](http://7xv4lu.com1.z0.glb.clouddn.com/dd.jpg "dream_tarvel")](https://unclethree.github.io/curiosity%20album/2016/06/12/album-for-the-curiosity-1.html)
-</center>
+
 
 >蒹葭苍苍,白露为霜。在我手指敲触键盘的这一起,已经不是那个对伊人抱有美好幻想的时机。
 
