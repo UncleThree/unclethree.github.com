@@ -63,6 +63,7 @@ category: "Navigation"
 - [Ruby官网](https://www.ruby-lang.org/zh_cn/)
 
 ### GIT BOOK
+
 - [新生-七年就是一辈子](http://www.zhibimo.com/read/xiaolai/reborn-every-7-years/)
 - [YC创业课学习笔记](http://www.zhibimo.com/read/xiaolai/growth/)
 - [原则](http://www.zhibimo.com/read/wang-miao/yuan-ze/)
