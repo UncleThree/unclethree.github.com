@@ -7,7 +7,7 @@ category: "Curiosity Album"
 
 >爱惜自己的羽毛
 
-[![alt "On The Road"](https://s-media-cache-ak0.pinimg.com/236x/a5/c0/4f/a5c04fd3157b56eb93479e626b828fab.jpg")](https://s-media-cache-ak0.pinimg.com/236x/a5/c0/4f/a5c04fd3157b56eb93479e626b828fab.jpg)
+[![alt "On The Road"](https://s-media-cache-ak0.pinimg.com/564x/a5/c0/4f/a5c04fd3157b56eb93479e626b828fab.jpg)](https://s-media-cache-ak0.pinimg.com/236x/a5/c0/4f/a5c04fd3157b56eb93479e626b828fab.jpg)
 
 有必要做阶段性回顾,半年一个总结,这期间留下了什么可做交代.
 
