@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 信任,爱惜自己的羽毛
+title: 信任,在路上,爱惜自己的羽毛
 date: 2016-06-16 23:00:00
 category: "Curiosity Album"
 ---
 
 >爱惜自己的羽毛
 
-[![alt "dream_tarvel"](http://7xv4lu.com1.z0.glb.clouddn.com/dd.jpg "dream_tarvel")](https://unclethree.github.io/curiosity%20album/2016/06/12/album-for-the-curiosity-1.html)
+[![alt "On The Road"](https://s-media-cache-ak0.pinimg.com/236x/a5/c0/4f/a5c04fd3157b56eb93479e626b828fab.jpg")](https://s-media-cache-ak0.pinimg.com/236x/a5/c0/4f/a5c04fd3157b56eb93479e626b828fab.jpg)
 
 有必要做阶段性回顾,半年一个总结,这期间留下了什么可做交代.
 
@@ -28,6 +28,6 @@ On The Road 中印象最深刻的莫过于那句有力的自我总结:
 
 #### 羽毛
 
-每段生活体验里都离不开人与人关系的连结,正是有这层交错关系存在,组合出的可能性就越发多样,内心深处都渴望和更多的人有更多的交集,交换更多的想法去丰富自己.
+每段生活体验里都离不开人与人关系的连结,正是有这层交错关系存在,组合出的可能性就越发多样,年轻的内心深处都渴望和更多的人有更多的交集,交换更多的想法去丰富自己.
 
-原创文章转载请注明出处：[「好奇心之旅」五月的身体记忆](https://unclethree.github.io/curiosity%20album/2016/06/12/album-for-the-curiosity-1.html)
+原创文章转载请注明出处：[信任,在路上,爱惜自己的羽毛](https://unclethree.github.io/curiosity%20album/2016/06/16/threasure_your_own_wings.html)
