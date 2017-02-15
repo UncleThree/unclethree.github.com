@@ -26,4 +26,4 @@ category: "DailyReverie"
 短期内如下理解：自我发展过程里，有一部分习得的对外表达方式是贯彻性的，同时也是被期望弱化的部分。
 
 
-原创文章转载请注明出处：[无日课之习](https://unclethree.github.io/dailyreverie/2017/02/15/artice-for-the-daily-album.html)
+原创文章转载请注明出处：[无日课之习](https://unclethree.github.io/dailyreverie/2017/02/14/artice-for-the-daily-album.html)
