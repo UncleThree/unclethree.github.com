@@ -68,7 +68,7 @@ a         { color: #91736b; text-decoration: none; }
     vertical-align: middle;
     text-decoration: none;
     color: rgba(255, 255, 255, 0.9);
-    background: url(../images/logo.jpg) no-repeat -72px 0;
+    background: url(/images/logo.jpg) no-repeat -72px 0;
     -webkit-transition: color 200ms ease-in-out;
     -moz-transition: color 200ms ease-in-out;
     -ms-transition: color 200ms ease-in-out;
