@@ -61,12 +61,13 @@ nav:
 
 #Author config
 author:
-    name: Joey Yang
+    name: 3en
     email: daodangege+aboutme@gmail.com
     imageLink: /images/header.jpg
     simpleIntro: 为学日益，为道日损，损之又损，以至于无为
     detailIntro:
-      <p>实践</p>
+      <img src="https://cdn.pixabay.com/photo/2016/11/18/13/30/bird-1834502_1280.jpg">
+      <p></p>
       <p></p>
       <p></p>
 

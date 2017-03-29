@@ -90,7 +90,7 @@ mysql> quit
 
 ```
 # vi ~/.my.cnf 
-将刚才在 [mysqld] 的段中加上的 **skip-grant-tables** 删除 
+将刚才在 [mysqld] 的段中加上的 skip-grant-tables 删除 
 ```
 
 6．重启服务
@@ -105,4 +105,4 @@ mysql> quit
 
 ------
 
-原创文章转载请注明出处：[Mac下以Homebrew所安装Mysql忘记密码后的操作](https://unclethree.github.io/readingnotes/2017/03/29/mac-map-for-lose-mysql-pwd.html)
+原创文章转载请注明出处：[Mac下以Homebrew所安装Mysql忘记密码后的操作](https://unclethree.github.io/mac日常系列/2017/03/29/mac-map-for-lose-mysql-pwd.html)
