@@ -4,7 +4,6 @@ title: 【Mac日常系列】Homebrew方式安装的Mysql忘记密码后的操作
 date: 2017-03-29 21:30:22
 category: "Mac日常系列"
 ---
-![banner](https://cdn.pixabay.com/photo/2017/03/29/08/19/usa-2184468__480.jpg "mac")
 
 > Mac日常系列，通过 Hombrew 方式安装的 Mysql，在使用一段时间过后，忘记 Mysql 密码问题时操作指南
 
